@@ -43,6 +43,12 @@ body {
 .menu-buttons button {
     font-size: 2.5rem;
     cursor: pointer;
+    text-decoration: none;
+}
+
+.menu-buttons button a{
+    text-decoration: none;
+    color: black;
 }
 
 

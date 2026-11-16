@@ -21,5 +21,6 @@ setInterval(function(){
 //bg music
 const music = new Audio('../sounds/alchemy_lab.mp3')
 music.volume = 0.4
+music.loop = true
 music.play();
 
